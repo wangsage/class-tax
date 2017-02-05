@@ -60,7 +60,6 @@ def main():
     tax1.set(10000000,0.3)
     tax1.set(8000,0.1)
     tax1.set(12500,0.3)
-    # tax1.change(12600,0.2)
     tax1.set(12500,0.2)
     tax1.set(38500,0.25)
     tax1.set(58500,0.3)
